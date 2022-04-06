@@ -81,13 +81,6 @@ __For Mac Users:__
 4. Navigate to the required destination.  
 5. Click on new - > Notebook  
 6. The script file opens up.
-
-> ## NOTE:  
-> While we are using jupyter notebook for the purpose of this workshop, we can use any text editor to write our program and run it using terminal/command prompt.
-> To do so-
-> 1. Open the command prompt/terminal and type pip install python3
-> 2. Once the installation is complete, open any editor and type you code in it. Make sure you save the file with a .py extension.
-> 3. Go to the command prompt/terminal and navigate to the filder where the file is saved.
-> 4. type python3 "name of the file".py   
+   
 {: .callout}
 
