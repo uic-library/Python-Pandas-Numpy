@@ -13,7 +13,7 @@ We will be using Jupyter notebook for this workshop. For instructions regarding 
 
 
 ## Workshop goals
-- Understand data and identify ways to work with it using libraries.
+- To understand how to use Pandas and Numpy to work with data.
 
 
 
