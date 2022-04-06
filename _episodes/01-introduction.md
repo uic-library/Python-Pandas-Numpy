@@ -3,13 +3,15 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
-- "Key question (FIXME)"
-objectives:
-- "First learning objective. (FIXME)"
-keypoints:
-- "First key point. Brief Answer to questions. (FIXME)"
+- "What is Data?"
+- "What is Information?"
+- "What is Knowledge?"
+- "Why is Data important?"
+- "How to get data to work for me?"
+- "What is Numpy?"
+- "What is Pandas?"
 ---
-FIXME
+
 
 ## What is Data?
 
