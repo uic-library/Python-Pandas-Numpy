@@ -29,13 +29,13 @@ Knowledge is what we know. Knowledge is unique to each individual and is the acc
 
 ## Why is Data important?
 In todays world, data is everywhere. While one might not think twice about the data that flows around us, it is often helpful to collect and analyze data. A few impacts that good data has are-
->Improve People’s Lives
->Make Informed Decisions
->Stop Molehills From Turning Into Mountains
->Get The Results You Want
->Find Solutions To Problems
->Stop The Guessing Game
->Be Strategic In Your Approaches
+-Improve People’s Lives
+-Make Informed Decisions
+-Stop Molehills From Turning Into Mountains
+-Get The Results You Want
+-Find Solutions To Problems
+-Stop The Guessing Game
+-Be Strategic In Your Approaches
 
 ## How to get data to work for me?
 There are several programming languages that have made it easy to work with data.However, python is the most popular choice of data scientists and data analysts. Working with data often includes concepts of statistics like mean, media etc. Python has inbuilt libraries to handle statistics. It also has several libraries that help with cleaning and preprocessing data.
