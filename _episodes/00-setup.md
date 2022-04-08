@@ -16,7 +16,7 @@ To participate in this workshop, you will need to have the Anaconda distribution
 ## Code Files
 ### Workshop Code:
 Please download the following code to follow along with the workshop:  
-[Python numpy pandas](../files/python_numpy_pandas.ipynb)
+[Python numpy pandas](../files/python_pandas_numpy.ipynb)
 
 
 
