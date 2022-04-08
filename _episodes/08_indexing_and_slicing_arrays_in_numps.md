@@ -31,16 +31,6 @@ print('2nd element on 1st row: ', arr[0, 1])
 ~~~
 {: .language-python}
 
-In python, we can also change the values assigned to the variables, without any restrictions.
-
-~~~
-no_of_ingredients = "Recipe for pancakes"    # x is now of type string
-name = 5                       # name is now of type int
-print(x)
-print(name)
-~~~
-{: .language-python}
-
 ## Slicing arrays
 
 Slicing in python means taking elements from one given index to another given index.
