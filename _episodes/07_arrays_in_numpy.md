@@ -1,5 +1,5 @@
 ---
-title: "arrays_in_numpy"
+title: "Arrays in Numpy"
 teaching: 0
 exercises: 0
 questions:
@@ -23,18 +23,6 @@ print(type(arr))
 ~~~
 {: .language-python}
 
-## How to create a Variable?
-
-A variable is created the moment you assign a value to it.
-
-~~~
-
-name = "Recipe for pancakes"
-no_of_ingredients = 5
-print(no_of_ingredients)
-print(name)
-~~~
-{: .language-python}
 
 
 ## Dimensions in Arrays
