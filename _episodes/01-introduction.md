@@ -38,7 +38,7 @@ In todays world, data is everywhere. While one might not think twice about the d
 -Be Strategic In Your Approaches
 
 ## How to get data to work for me?
-There are several programming languages that have made it easy to work with data.However, python is the most popular choice of data scientists and data analysts. Working with data often includes concepts of statistics like mean, media etc. Python has inbuilt libraries to handle statistics. It also has several libraries that help with cleaning and preprocessing data.
+There are several programming languages that have made it easy to work with data.However, python is the most popular choice of data scientists and data analysts. Working with data often includes concepts of statistics like mean, medium etc. It also deals with plotting and undestanding patters and distributions in data. Python has inbuilt libraries to handle statistics. It also has several libraries that help with cleaning and preprocessing data.
 
 ## What is Numpy?
 NumPy is a Python library used for working with arrays.It also has functions for working in domain of linear algebra, fourier transform, and matrices.
