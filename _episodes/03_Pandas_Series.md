@@ -39,15 +39,6 @@ print(quantity_series["Sugar"])
 ~~~
 {: .language-python}
 
-In python, we can also change the values assigned to the variables, without any restrictions.
-
-~~~
-no_of_ingredients = "Recipe for pancakes"    # x is now of type string
-name = 5                       # name is now of type int
-print(x)
-print(name)
-~~~
-{: .language-python}
 
 ## Key/Value Objects in a Series
 Objects that follow key:value format(Dictionaries) can also be used to create series. The key becomes the index and the value becomes the column element.
