@@ -49,4 +49,4 @@ Thank you for attending this workshop or reading through the workshop material! 
 
 ## Next Up...
 Check out these workshops after you've completed this one:
-1. [Numpy and Pandas in python](https://uic-library.github.io/Python-Pandas-Numpy)
+1. [Data pre-processing in Python](https://uic-library.github.io/Python-Pandas-Numpy)
