@@ -25,7 +25,7 @@ Information is created when data are processed, organized, or structured to prov
 
 Knowledge is what we know. Knowledge is unique to each individual and is the accumulation of past experience and insight that shapes the lens by which we interpret, and assign meaning to, information. 
 
-<-----Insert image------>
+![Data vs Information vs Knowledge](../fig/dvsivsk.png)
 
 ## Why is Data important?
 In todays world, data is everywhere. While one might not think twice about the data that flows around us, it is often helpful to collect and analyze data. A few impacts that good data has are-
