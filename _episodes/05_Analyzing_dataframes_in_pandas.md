@@ -1,12 +1,6 @@
 ---
 title: "Working with Dataframes using functions in Pandas"
-teaching: 0
-exercises: 0
-questions:
-- "What are Variables?"
-- "How to create a Variable?"
-objectives:
-- "To understand variables and the rules of naming variables"
+
 ---
 
 ## View the Data?
