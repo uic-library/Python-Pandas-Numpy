@@ -1,12 +1,5 @@
 ---
 title: "Important attributes in Numpy"
-teaching: 0
-exercises: 0
-questions:
-- "What are Variables?"
-- "How to create a Variable?"
-objectives:
-- "To understand variables and the rules of naming variables"
 ---
 
 ## Shape of an Array
